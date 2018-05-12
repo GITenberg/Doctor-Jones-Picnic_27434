@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '32690'
     url: http://www.gutenberg.org/2009/agents/32690
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27434#Doctor-Jones-Picnic
 gutenberg_issued: '2008-12-07'
 gutenberg_type: Text
 identifiers:
