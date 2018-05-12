@@ -1,0 +1,27 @@
+_repo: Doctor-Jones-Picnic_27434
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chapman, S. E. (Samuel E.)
+    alias: Chapman, Samuel E.
+    gutenberg_agent_id: '32690'
+    url: http://www.gutenberg.org/2009/agents/32690
+description: ''
+gutenberg_issued: '2008-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27434'
+  lccn: '06023120'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Imaginary wars and battles -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Doctor Jones' Picnic
+url: http://www.gutenberg.org/ebooks/27434
